@@ -7,6 +7,7 @@
 - **Taux de fraude : 0.1727%**
 
 ### **Fonctionnalités**
+
 • 🤖 Modèle IA avec 98.7% de précision
 • 📊 Dashboard interactif temps réel  
 • 🧪 Testeur de transactions
