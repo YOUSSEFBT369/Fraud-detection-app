@@ -47,7 +47,7 @@ Stack : Python, Streamlit, Scikit-learn
 3. **Le modèle sera régénéré automatiquement** au premier lancement
 
 ### **Structure des fichiers requis :**
-
+```
 anti-fraude/
 ├── creditcard.csv                    # À télécharger manuellement
 ├── mon_premier_modele_anti_fraude.pkl  # Généré automatiquement
@@ -56,9 +56,11 @@ anti-fraude/
 ├── README.md                         # Documentation du projet
 ├── screenshots/                      # Captures d'écran démonstratives
 └── .gitignore                        # Fichiers ignorés par Git
+```
 
 ## 🛠️ **ARCHITECTURE DU PROJET**
 
+```
 anti-fraude-ia/
 ├── 📊 dashboard.py                         # Application Streamlit principale
 ├── 📋 requirements.txt                     # Dépendances Python
@@ -71,7 +73,7 @@ anti-fraude-ia/
 │   ├── fraude_detectee.png                # Détection en action
 │   └── performance.png                    # Métriques globales
 └── 🔒 .gitignore                          # Fichiers ignorés par Git
-
+```
 
 ## 📈 **TOP 15 DES FEATURES LES PLUS IMPORTANTES**
 
